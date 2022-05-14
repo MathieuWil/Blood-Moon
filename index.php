@@ -28,7 +28,7 @@
         <!-- SECTION -->
         <div class="container">
             <!-- LOGO -->
-            <div id="logo"><img src="./bg.png" alt="logo"></div>
+            <div id="logo"><img src="./bg.png" alt="logo" /></div>
             <!-- RESUMÉ -->
             <div id="resume">
                 <h1 id="titre">Blood Moon</h1><br /><br />
